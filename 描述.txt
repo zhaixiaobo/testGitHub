@@ -2,6 +2,7 @@
     当前使用的是H-ui.Admin.page_v3.0
     H-ui.admin是用H-ui前端框架开发的轻量级网站后台模版采用源生html语言，完全免费，简单灵活，兼容性好让您快速搭建中小型网站后台。
     H-ui.Admin_v3.0是默认版本，iframe结构布局，多选项卡效果。H-ui.Admin.page_v3.0是单页面，没有用到iframe，左侧菜单点击刷新页面，每次只能打开一个页面。相比iframe更简单，更方便操作。
+   如果下载缓慢，请加入群，在群共享中下载。如果对IE低版本有严格要求，请慎重选择，本后台框架不对IE8以下浏览器做严格兼容。
 
 地址：http://www.h-ui.net/H-ui.admin.shtml
 GIthub地址: https://github.com/jackying/H-ui.admin
