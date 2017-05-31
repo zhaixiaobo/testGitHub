@@ -1,0 +1,5 @@
+
+    H-ui.admin是用H-ui前端框架开发的轻量级网站后台模版采用源生html语言，完全免费，简单灵活，兼容性好让您快速搭建中小型网站后台。
+
+地址：http://www.h-ui.net/H-ui.admin.shtml
+GIthub地址: https://github.com/jackying/H-ui.admin
